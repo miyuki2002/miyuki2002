@@ -7,6 +7,9 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunnar2001&count_private=true&show_icons=true&theme=tokyonight)
 
+![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lunnar2001&theme=tokyonight&layout=compact)
+
+
 
 <!---
 hikari2001/hikari2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
