@@ -2,7 +2,7 @@
 
 # Hi, I'm Vjetcong.
 
-> 🌱 I’m currently learning JavaScript
+> 🌱 I’m currently learning JavaScript 
 
 > 💬 Ask me about anything [here](https://github.com/lunnar2001/lunnar2001/issues)
 
@@ -14,6 +14,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/78893252/118347902-adb1b000-b570-11eb-9353-87c8543661c0.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/78893252/118347913-c9b55180-b570-11eb-9f8d-ad43e71e03e8.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/78893252/118347936-02edc180-b571-11eb-8f4e-29a9f280154e.png"></code>
+
     
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunnar2001&count_private=true&show_icons=true&theme=tokyonight)
