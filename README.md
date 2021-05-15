@@ -1,9 +1,10 @@
 ![image](https://user-images.githubusercontent.com/78893252/118347498-fd42ac80-b56d-11eb-9b51-a352ce3a46a9.png)
-Hi, I'm Vjetcong.
 
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about anything [here](https://github.com/lunnar2001/lunnar2001/issues)
-- 💬 If you want to contact me join my [Discord Server](https://discord.gg/ZYseQQDbqh) and DM me: Huỳnh Thảo#4836
+# Hi, I'm Vjetcong.
+
+> 🌱 I’m currently learning JavaScript
+> 💬 Ask me about anything [here](https://github.com/lunnar2001/lunnar2001/issues)
+> 💬 If you want to contact me join my [Discord Server](https://discord.gg/ZYseQQDbqh) and DM me: Huỳnh Thảo#4836
 
 **Languages and Tools:**  
 
