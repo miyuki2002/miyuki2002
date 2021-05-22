@@ -6,7 +6,7 @@
 
 > 💬 Ask me about anything [here](https://github.com/lunnar2001/lunnar2001/issues)
 
-> 💬 If you want to contact me join my [Discord Server](https://discord.gg/ZYseQQDbqh) and DM me: Huỳnh Thảo#4836
+> 💬 If you want to contact me join my [Discord Server](https://discord.gg/ZYseQQDbqh) and DM me: vjetcong#4836
 
 
 **Languages and Tools:**  
