@@ -3,7 +3,7 @@
 # ![image](https://user-images.githubusercontent.com/78893252/120107855-d9e24900-c18c-11eb-9c32-abacfca00c3b.png) Hi, I'm vjetcong#4836.
 
 
-> 🌱 I’m currently learning JavaScript/Tui hiện đang học javascripts
+> 🌱 I’m currently learning JavaScript
 
 > 💬 Ask me about anything [here](https://github.com/lunnar2001/lunnar2001/issues)
 
