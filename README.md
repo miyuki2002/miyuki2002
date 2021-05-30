@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/78893252/118347498-fd42ac80-b56d-11eb-9b51-a352ce3a46a9.png)
+![image](https://user-images.githubusercontent.com/78893252/120107319-d51c9580-c18a-11eb-864b-ca2880938a30.png)
 
 # Hi, I'm vjetcong#4836.
 
