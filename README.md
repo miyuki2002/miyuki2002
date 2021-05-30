@@ -9,7 +9,7 @@
 
 > 💬 If you want to contact me join my [Discord Server](https://discord.gg/ZYseQQDbqh) and TAG/DM me: vjetcong#4836
 
-> ![image](https://user-images.githubusercontent.com/78893252/120107718-545e9900-c18c-11eb-8e86-1f753affdbe4.png) My school is Duy Tan University
+> ![image](https://user-images.githubusercontent.com/78893252/120107793-8ff96300-c18c-11eb-8d77-37eb330a0137.png) My school is Duy Tan University
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
