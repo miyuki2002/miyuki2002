@@ -2,6 +2,8 @@
 
 # Hi, I'm vjetcong#4836.
 
+![image](https://user-images.githubusercontent.com/78893252/120107473-56742800-c18b-11eb-9ffb-36a256e9ad7d.png)
+
 > 🌱 I’m currently learning JavaScript 
 
 > 💬 Ask me about anything [here](https://github.com/lunnar2001/lunnar2001/issues)
