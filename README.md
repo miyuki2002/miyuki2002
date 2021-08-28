@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/78893252/120107319-d51c9580-c18a-11eb-864b-ca2880938a30.png)
 
-# ![image](https://user-images.githubusercontent.com/78893252/120107855-d9e24900-c18c-11eb-9c32-abacfca00c3b.png) Hi, I'm vjetcong#4836.
+#Hi, I'm vjetcong#4836.
 
 
 > 🌱 I’m currently learning JavaScript
