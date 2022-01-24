@@ -1,4 +1,4 @@
-# Hi, I'm vjetcong#0907.
+# Hi, I'm vjetcong.
 
 
 > 🌱 I’m currently learning JavaScript/C++
