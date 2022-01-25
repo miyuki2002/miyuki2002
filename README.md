@@ -19,7 +19,8 @@
 <code><img height="20" src="https://user-images.githubusercontent.com/78893252/118347936-02edc180-b571-11eb-8f4e-29a9f280154e.png"></code>
 
     
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=miyuki2002&count_private=true&show_icons=true&theme=tokyonight)  ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=miyuki2002&theme=tokyonight&layout=compact)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=miyuki2002&count_private=true&show_icons=true&theme=tokyonight)  
+![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=miyuki2002&theme=tokyonight&layout=compact)
 
 
 
