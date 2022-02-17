@@ -5,7 +5,7 @@
 
 > 💬 Ask me about anything [here](https://github.com/miyuki2002/miyuki2002/issues)
 
-> 💬 If you want to contact me join my [Discord Server](https://discord.gg/ay9Avg3Qaf) and TAG/DM me: vjetcong#0907
+> 💬 If you want to contact me join my [Discord Server](https://discord.gg/ay9Avg3Qaf) and TAG/DM me: vjetcong#6792
 
 > ![image](https://user-images.githubusercontent.com/78893252/120107812-a6072380-c18c-11eb-89de-a9d9a1cc78f8.png) My school is Duy Tan University
 
