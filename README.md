@@ -1,7 +1,7 @@
 # Hi, I'm vjetcong.
 
 
-> 🌱 I’m currently learning JavaScript/C++
+> 🌱 I’m currently learning JavaScript
 
 > 💬 Ask me about anything [here](https://github.com/miyuki2002/miyuki2002/issues)
 
