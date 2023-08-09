@@ -1,4 +1,4 @@
-# Hi, I'm vjetcong.
+# Hi, I'm s4ory.
 
 
 > 🌱 I’m currently learning JavaScript
