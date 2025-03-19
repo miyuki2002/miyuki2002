@@ -5,7 +5,7 @@
 
 > 💬 Ask me about anything [here](https://github.com/miyuki2002/miyuki2002/issues)
 
-> 💬 If you want to contact me join my [Discord Server](https://discord.gg/AJtQMdsxhy) and TAG/DM me: vjetcong
+> 💬 If you want to contact me join my [Discord Server](https://discord.gg/52hSMAt) and TAG/DM me: cg.s4ory
 
 
 
