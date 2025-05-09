@@ -1,7 +1,7 @@
 # Hi, I'm s4ory.
 
 
-> 🌱 I’m currently learning JavaScript
+> 🌱 I’m currently learning JavaScript (maybe).
 
 > 💬 Ask me about anything [here](https://github.com/miyuki2002/miyuki2002/issues)
 
