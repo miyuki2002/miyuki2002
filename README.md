@@ -11,7 +11,6 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/78893252/118347902-adb1b000-b570-11eb-9353-87c8543661c0.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/78893252/118347913-c9b55180-b570-11eb-9f8d-ad43e71e03e8.png"></code>
